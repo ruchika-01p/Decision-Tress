@@ -1,2 +1,2 @@
-# Decision-Tress
+# Decision-Trees
 Data Structure Project
